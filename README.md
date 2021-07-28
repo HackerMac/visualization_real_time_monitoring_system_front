@@ -62,39 +62,41 @@ npm run build
 
 #### 2.1 黑色主题
 
-![image-20210729000310471](E:\PROJECT\visualization real-time monitoring system\front\README.assets\image-20210729000310471.png)
+![image-20210729000310471](README.assets/image-20210729000310471.png)
 
 #### 2.2 亮色主题
 
-![image-20210729003422927](E:\PROJECT\visualization real-time monitoring system\front\README.assets\image-20210729003422927.png)
+![image-20210729003418312](README.assets/image-20210729003418312.png)
 
 #### 2.3 热销商品占比
 
-![image-20210729003500556](E:\PROJECT\visualization real-time monitoring system\front\README.assets\image-20210729003500556.png)
+![image-20210729003500556](README.assets/image-20210729003500556.png)
+
+![image-20210729003442613](README.assets/image-20210729003442613.png)
 
 #### 2.4 商家分布
 
-![image-20210729003516012](E:\PROJECT\visualization real-time monitoring system\front\README.assets\image-20210729003516012.png)
+![image-20210729003516012](README.assets/image-20210729003516012.png)
 
-![image-20210729003527988](E:\PROJECT\visualization real-time monitoring system\front\README.assets\image-20210729003527988.png)
+![image-20210729003527988](README.assets/image-20210729003527988.png)
 
-![image-20210729003539177](E:\PROJECT\visualization real-time monitoring system\front\README.assets\image-20210729003539177.png)
+![image-20210729003539177](README.assets/image-20210729003539177.png)
 
 #### 2.5 地区销售排行
 
-![image-20210729003553563](E:\PROJECT\visualization real-time monitoring system\front\README.assets\image-20210729003553563.png)
+![image-20210729003553563](README.assets/image-20210729003553563.png)
 
 #### 2.6 商家销售统计
 
-![image-20210729003608196](E:\PROJECT\visualization real-time monitoring system\front\README.assets\image-20210729003608196.png)
+![image-20210729003608196](README.assets/image-20210729003608196.png)
 
 #### 2.7 库存和销量分析
 
-![image-20210729003619556](E:\PROJECT\visualization real-time monitoring system\front\README.assets\image-20210729003619556.png)
+![image-20210729003619556](README.assets/image-20210729003619556.png)
 
 #### 2.8 地区销量趋势
 
-![image-20210729003647747](E:\PROJECT\visualization real-time monitoring system\front\README.assets\image-20210729003647747.png)
+![image-20210729003647747](README.assets/image-20210729003647747.png)
 
 
 
